@@ -1,5 +1,6 @@
 # A simple Script which updates my SD Card with recent files
 # Works suprisingly well
+# Built by cop6567 on Github https://github.com/cop6567
 
 # 1 Day Build, Modified afterwards
 
